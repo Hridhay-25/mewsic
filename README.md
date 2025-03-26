@@ -1,1 +1,1 @@
-Mewsic player using mern
+Developing a music Player using MERN Fullstack
